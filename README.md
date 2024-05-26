@@ -1,4 +1,4 @@
-# MathPuzzle
+# MathPuzzlea
 
 A new Flutter project.
 
