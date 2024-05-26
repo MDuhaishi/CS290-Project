@@ -1,4 +1,4 @@
-# test_project
+# MathPuzzle
 
 A new Flutter project.
 
